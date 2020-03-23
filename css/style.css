@@ -1,0 +1,137 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1{
+line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem ;
+  color: #142850;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:  2.5rem;
+  color: #142850;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+a{
+  color:  #00a8cc;
+  font-family:  'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color: #EAEAF6;
+}
+.copyright{
+  color: #EAEAF6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.top-container{
+  background-color: #00a8cc;
+  position: relative;
+  padding-top: 100px;
+}
+.avid
+{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.middle-container{
+  padding: 100px 0;
+}
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color:   #142850;
+;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.quote{
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+}
+.Web-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.Music-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.pro-para{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+hr{
+  border-color: #EAF6F6;
+  border-style: dotted none none;
+  height: 0;
+  width: 5%;
+  border-width: 7px;
+  margin: 100px auto;
+}
+.Contact{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.btn {
+	background:linear-gradient(to bottom, #00c7ba 5%, #014385 100%);
+	background-color:#00c7ba;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #014385 5%, #00c7ba 100%);
+	background-color:#014385;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
